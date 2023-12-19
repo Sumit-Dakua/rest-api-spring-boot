@@ -71,10 +71,10 @@ To stop the running application, press `Ctrl + C` in the terminal.
 
 
 ## Author
-Name: Sumit Dakua
-Email: [sumitdakua4@gmail.com]
-LinkedIn: [https://www.linkedin.com/in/sumit-dakua]
-Twitter : [https://twitter.com/sumitdakua1]
+- Name: Sumit Dakua
+- Email: [sumitdakua4@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/sumit-dakua]
+- Twitter : [https://twitter.com/sumitdakua1]
 #### Feel free to reach out for any questions or collaboration opportunities!
 
 ##### Acknowledgments
